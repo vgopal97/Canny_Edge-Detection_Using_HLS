@@ -1,0 +1,12 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'vbandhak' on host 'xhsvbandhak30' (Windows NT_amd64 version 6.2) on Wed May 29 13:20:23 +0530 2019
+INFO: [HLS 200-10] In directory 'C:/Users/vbandhak/Desktop/Canny_Edge_Detection'
+INFO: [HLS 200-10] Opening project 'C:/Users/vbandhak/Desktop/Canny_Edge_Detection/Hysteresis_prj'.
+INFO: [HLS 200-10] Opening solution 'C:/Users/vbandhak/Desktop/Canny_Edge_Detection/Hysteresis_prj/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xcvu13p-fsga2577-2l-e'
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+make: 'csim.exe' is up to date.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
